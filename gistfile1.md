@@ -6,13 +6,15 @@
 The University of Toronto Formula SAE Racing Team (UTFR) is continually striving for innovation and optimal performance in the challenging world of formula racing. Our vehicle's electrical system is a testament to this dedication, ensuring efficient power management and distribution to various subsystems. They will be racing in Michigan, New Hampshire, Czech and Germany in 2024. 
 The UT24 Buck Converter Test Board is the centerpiece of our endeavor to refine and optimize the power regulation of our car’s low voltage system. This test board aims to scrutinize the robustness and efficacy of the buck converter, which is poised to be a pivotal part of UTFR’s Rear Controller for our 2025 vehicle.
 
-
+![image2](https://user-images.githubusercontent.com/138076143/272070387-5cd57174-5b5f-4730-b69e-0fe36df7fda0.png)
 
 Figure 1: Initial design of the Buck Converter Test Board, featuring its compact layout.
 As with many of our high-performance boards, JLCPCB has been our partner of choice in transforming our designs into reality. With over 15 years in the industry, JLCPCB's commitment to quality and efficiency aligns perfectly with our team's ethos. Their ability to manufacture intricate designs with precision, coupled with their cost-effective solutions, makes them the top contender in PCB manufacturing.
 
 
 ## Design & Functionality
+
+![image3](https://user-images.githubusercontent.com/138076143/272070428-40723223-f25d-4dbb-bbba-0a2495984389.png)
 
 
 Figure 2: A detailed schematic of the Buck Converter Test Board in Altium Designer 2022.
