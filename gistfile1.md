@@ -25,7 +25,7 @@ Altium Designer 2022, with its advanced tools and comprehensive interface, was i
 
 JLCPCB's streamlined ordering process complements the intricate design capabilities of Altium Designer. Here's how we seamlessly transition from design to manufacturing:
 
-Generating Gerber files: 
+**Generating Gerber files:** 
 
 Within Altium, navigate to File -> Fabrication Outputs -> Gerber Files.
 
@@ -33,15 +33,15 @@ Within Altium, navigate to File -> Fabrication Outputs -> Gerber Files.
 
 Figure 3: An in-depth view of the Gerber file generation process in Altium.
 
-Uploading to JLCPCB: 
+**Uploading to JLCPCB:** 
 
 Access the user-friendly interface on JLCPCB's platform and upload the generated Gerber files for a quick review.
 
-Specifications & Review: 
+**Specifications & Review:** 
 
 JLCPCB's system automatically detects the board specifications, minimizing manual input and expediting the ordering process.
 
-Finalizing the Order: 
+**Finalizing the Order:** 
 
 With options to adjust parameters like silkscreen colors and layer stack-ups, one can customize the final product. Simply add to the cart, input shipping details, and proceed to payment.
 
