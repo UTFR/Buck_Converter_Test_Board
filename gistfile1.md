@@ -20,17 +20,30 @@ As with many of our high-performance boards, JLCPCB has been our partner of choi
 Figure 2: A detailed schematic of the Buck Converter Test Board in Altium Designer 2022.
 The primary role of the Buck Converter Test Board is to evaluate whether the converter can adequately power our car's low voltage system, which includes peripheral boards, our battery management system, multiple sensors and our Cascadia inverter. Boasting a higher amperage output and having a footprint considerably smaller than previous iterations, this buck converter promises enhanced performance without compromising space. Operating at a swift 1.455 Mhz, it is designed to efficiently regulate a 21-volt LV battery to a stable 12 volts, suitable for vehicular operations.
 Altium Designer 2022, with its advanced tools and comprehensive interface, was instrumental in bringing the Buck Converter Test Board to life. The software's capabilities, from intricate schematics to detailed 3D visualization, facilitated a seamless design process. The ability to instantly integrate with JLCPCB's manufacturing standards ensured that our designs remained compliant and optimized for fabrication.
-Ordering Logistics with JLCPCB
+
+## Ordering Logistics with JLCPCB
+
 JLCPCB's streamlined ordering process complements the intricate design capabilities of Altium Designer. Here's how we seamlessly transition from design to manufacturing:
-Generating Gerber files: Within Altium, navigate to File -> Fabrication Outputs -> Gerber Files.
+
+Generating Gerber files: 
+
+Within Altium, navigate to File -> Fabrication Outputs -> Gerber Files.
 
 <img width="1394" alt="Screenshot 2023-10-02 at 01 20 13" src="https://user-images.githubusercontent.com/138076143/272069461-08fffff2-8ede-4a97-8965-e3dcebe4a4ba.png">
 
 Figure 3: An in-depth view of the Gerber file generation process in Altium.
-Uploading to JLCPCB: Access the user-friendly interface on JLCPCB's platform and upload the generated Gerber files for a quick review.
-Specifications & Review: JLCPCB's system automatically detects the board specifications, minimizing manual input and expediting the ordering process.
 
-Finalizing the Order: With options to adjust parameters like silkscreen colors and layer stack-ups, one can customize the final product. Simply add to the cart, input shipping details, and proceed to payment.
+Uploading to JLCPCB: 
+
+Access the user-friendly interface on JLCPCB's platform and upload the generated Gerber files for a quick review.
+
+Specifications & Review: 
+
+JLCPCB's system automatically detects the board specifications, minimizing manual input and expediting the ordering process.
+
+Finalizing the Order: 
+
+With options to adjust parameters like silkscreen colors and layer stack-ups, one can customize the final product. Simply add to the cart, input shipping details, and proceed to payment.
 
 ## Conclusion
 
