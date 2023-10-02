@@ -16,6 +16,8 @@ Ordering Logistics with JLCPCB
 JLCPCB's streamlined ordering process complements the intricate design capabilities of Altium Designer. Here's how we seamlessly transition from design to manufacturing:
 Generating Gerber files: Within Altium, navigate to File -> Fabrication Outputs -> Gerber Files.
 
+<img width="1394" alt="Screenshot 2023-10-02 at 01 20 13" src="https://user-images.githubusercontent.com/138076143/272069461-08fffff2-8ede-4a97-8965-e3dcebe4a4ba.png">
+
 Figure 3: An in-depth view of the Gerber file generation process in Altium.
 Uploading to JLCPCB: Access the user-friendly interface on JLCPCB's platform and upload the generated Gerber files for a quick review.
 Specifications & Review: JLCPCB's system automatically detects the board specifications, minimizing manual input and expediting the ordering process.
